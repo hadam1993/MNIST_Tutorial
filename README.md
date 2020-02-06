@@ -10,6 +10,7 @@ The images from these files need to be placed in the following directory structu
 Train 
 
 |
+
 _0
 
 |_1
