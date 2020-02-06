@@ -7,7 +7,8 @@ If you are using this tutorial please download the data from http://yann.lecun.c
 
 The images from these files need to be placed in the following directory structure, with their correct labels.
 
-Train 
+    Train
+
     |_0
 
     |_1
