@@ -1,11 +1,11 @@
 # MNIST_Tutorial
 
 This tutorial is written for those being introduced to Neural Networks using pytorch.
-An emphasis for this tutorial is based on how to use your own data to train models. 
+An emphasis for this tutorial is based on how to use your own data to train models. The way the images are stored in your local directories and called into python using pytorch's data loader can be reused for any of your projects.
 
-If you are using this tutorial please download the data from http://yann.lecun.com/exdb/mnist/
+To use this tutorial, please download the data from http://yann.lecun.com/exdb/mnist/
 
-The images from these files need to be placed in the following directory structure, with their correct labels.
+The images from these files need to be placed in the following directory structure, with their correct labels. The File Save_Mnist_images_and_labels.ipynb will help you to save the images into these directories on your local system.
 
     Train
         |_0
