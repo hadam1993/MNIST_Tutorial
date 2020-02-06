@@ -8,16 +8,15 @@ If you are using this tutorial please download the data from http://yann.lecun.c
 The images from these files need to be placed in the following directory structure, with their correct labels.
 
 Train 
+    |_0
 
-  |_0
+    |_1
 
-  |_1
+    |_2
 
-  |_2
+    |_3
 
-  |_3
-
-  |_4
+    |_4
 
   |_5
 
