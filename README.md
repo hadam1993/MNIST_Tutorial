@@ -31,3 +31,5 @@ The images from these files need to be placed in the following directory structu
         |_7
         |_8
         |_9
+
+After saving the images in their correct directories you can use the Recoginizing_Handwritten_Digits_pytorch.ipynb notebook to help you learn how to create a Feed Forward Neural Network to recoginize the handwritten digits.
